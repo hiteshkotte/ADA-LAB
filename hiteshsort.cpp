@@ -1,4 +1,4 @@
-#include &lt;iostream&gt;
+#include<iostream>
 
 using namespace std;
 class sort
