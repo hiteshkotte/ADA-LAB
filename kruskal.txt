@@ -1,29 +1,5 @@
 
-Conversation opened. 1 read message.
 
-Skip to content
-Using CMR University Mail with screen readers
-Click here to enable desktop notifications for CMR University Mail.   Learn more  Hide
-4 of 29
- 
-kerskal program
-HITESH K <hitesh.16ec@cmr.edu.in>
-	
-AttachmentsFeb 28 (2 days ago)
-	
-to tejasversion18, Hitesh, venkatesh.16cs
-hi........
-2 Attachments
-	
-Click here to Reply, Reply to all, or Forward
-Using 0.37 GB
-Manage
-Program Policies
-Powered by
-Google
-Last account activity: 0 minutes ago
-Details
-	
 	
 
 #include<stdio.h>
