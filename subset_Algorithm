@@ -1,12 +1,10 @@
 #include<stdio.h>
-#include<conio.h>
 int s[10] , x[10],d ;
 void sumofsub ( int , int , int ) ;
 void main ()
 {
 int n , sum = 0 ;
 int i ;
-clrscr () ;
 printf ( " \n Enter the size of the set : " ) ;
 scanf ( "%d" , &n ) ;
 printf ( " \n Enter the set in increasing order:\n" ) ;
